@@ -1,0 +1,14 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url();
+    background-attachment: fixed;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
